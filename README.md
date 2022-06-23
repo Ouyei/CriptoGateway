@@ -20,11 +20,15 @@ CryptoGateway was born from the need for operators and consumers to have new pay
 
 <p align="center">Select Pump</p>
 
+<p align="center">
 <img src="https://github.com/Ouyei/CriptoGateway/blob/main/images/select_pump.JPG" class="centerImage" width="400" height="600" />
+</p>
 
 <p align="center">Modify Info</p>
 
+<p aligh="center">
 <img src="https://github.com/Ouyei/CriptoGateway/blob/main/images/modify_info.JPG" class="centerImage" width="400" height="600" />
+</p>
 
 ## Technologies
 
@@ -35,7 +39,7 @@ CryptoGateway was born from the need for operators and consumers to have new pay
 ### Libraries and tools
 
 <p align="center">
-<img src="https://github.com/Ouyei/CriptoGateway/blob/main/images/libraries%20and%20tools.png" width="500" height="500" class="center">
+<img src="https://github.com/Ouyei/CriptoGateway/blob/main/images/libraries%20and%20tools.png" width="500" height="500">
 </p>
 
 ## Features
