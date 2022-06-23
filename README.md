@@ -26,7 +26,7 @@ CryptoGateway was born from the need for operators and consumers to have new pay
 
 <p align="center">Modify Info</p>
 
-<p aligh="center">
+<p align="center">
 <img src="https://github.com/Ouyei/CriptoGateway/blob/main/images/modify_info.JPG" class="centerImage" width="400" height="600" />
 </p>
 
