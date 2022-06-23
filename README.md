@@ -34,7 +34,7 @@ CryptoGateway was born from the need for operators and consumers to have new pay
 
 ### Libraries and tools
 
-<img src="https://github.com/Ouyei/CriptoGateway/blob/main/images/libraries_and_tools.JPG" width="500" height="500" />
+<img src="https://github.com/Ouyei/CriptoGateway/blob/main/images/libraries%20and%20tools.png" width="500" height="500" />
 
 ## Features
 
