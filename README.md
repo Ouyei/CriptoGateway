@@ -7,7 +7,6 @@ CryptoGateway was born from the need for operators and consumers to have new pay
 - [Motivations](#motivations)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
-- [Setup](#setup)
 - [Features](#features)
 - [Landing Page](#landing_page)
 - [Contact](#contact)
@@ -37,11 +36,6 @@ CryptoGateway was born from the need for operators and consumers to have new pay
 
 <img src="https://github.com/Ouyei/CriptoGateway/blob/main/images/libraries_and_tools.JPG" width="500" height="500" />
 
-## Setup
-
-```
-
-```
 ## Features
 
 - 
